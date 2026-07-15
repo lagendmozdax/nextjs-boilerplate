@@ -66,7 +66,7 @@ export default function Home() {
 
             {/* Facebook */}
             <a 
-              href="https://www.facebook.com/pu3pg" 
+              href="https://www.facebook.com/share/1Xhi7ms2f2/?mibextid=wwXIfr" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center justify-center w-14 h-14 bg-[#1877F2] text-white rounded-full hover:scale-110 transition-transform shadow-lg"
