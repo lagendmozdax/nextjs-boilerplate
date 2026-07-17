@@ -93,7 +93,7 @@ export default function Home() {
         {/* SECTION 3: Butang Muat Turun */}
         <section className="mt-4">
           <Link 
-            href="#" // Gantikan "#" dengan link sebenar buku persidangan nanti
+            href="/BUKU-PERSIDANGAN-PU3PG-2026.pdf" // Gantikan "#" dengan link sebenar buku persidangan nanti
             className="inline-block px-8 py-4 bg-white text-[#d87bb0] font-bold text-lg rounded-full shadow-xl hover:bg-gray-100 hover:-translate-y-1 transition-all duration-300"
           >
             Muat Turun Buku Persidangan
